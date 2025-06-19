@@ -1,6 +1,5 @@
-# Content-Engagement-Analysis
+# Content-Engagement-Analysis 📊
 
-📊 Content Engagement Analysis
 This project analyzes online news articles to understand which content features drive higher user engagement (measured by shares). Using Python and machine learning, we explore relationships between textual, visual, and sentiment-based features to predict article popularity.
 
 ✅ Key Highlights:
